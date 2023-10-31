@@ -143,21 +143,13 @@ void Error_Handler(void)
   
 } 
 ```
-
-
 ## Output screen shots of proteus  :
-## When LED is Off
-![pmc1](https://github.com/LokeshRajamani/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120544804/b01fd933-3cf1-4908-9bbc-3cff8d8ef027)
-
-
-## When LED is On
-![led pmc on](https://github.com/LokeshRajamani/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120544804/761073af-dc8e-40b4-b78c-64e4140439b8)
-
-
+## When LED is Off:
+![ex3 off](https://github.com/LokeshRajamani/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120544804/ad9bca65-49e2-467c-ab64-b0c61d62bf84)
+## When LED is On:
+![ex3 on](https://github.com/LokeshRajamani/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120544804/525d1814-3bcb-4eab-8739-d33ccb1f0714)
 ## Proteus Layout :
-![proteus layout](https://github.com/LokeshRajamani/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120544804/d2076654-e0b1-42b3-8135-c1777606cf8a)
-
-
+![ex3](https://github.com/LokeshRajamani/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120544804/f4e82628-6077-4426-a299-bfe49edd1011)
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
